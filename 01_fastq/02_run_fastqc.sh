@@ -1,0 +1,16 @@
+sh 01_script_fastqc.sh C3SO3
+sh 01_script_fastqc.sh Liver_20Gy1_SO1
+sh 01_script_fastqc.sh Liver_20Gy1_SO2
+sh 01_script_fastqc.sh Liver_20Gy1_SO4
+sh 01_script_fastqc.sh Liver_2Gy2_SO1
+sh 01_script_fastqc.sh Liver_2Gy2_SO2
+sh 01_script_fastqc.sh Liver_2Gy2_SO4
+sh 01_script_fastqc.sh Liver_8Gy1_SO3
+sh 01_script_fastqc.sh Liver_8Gy1_SO5
+sh 01_script_fastqc.sh Liver_C3SO1
+sh 01_script_fastqc.sh Liver_C3SO2
+sh 01_script_fastqc.sh Panc_20Gy1_SO2
+sh 01_script_fastqc.sh Panc_2Gy2_SO2
+sh 01_script_fastqc.sh Panc_8Gy1_BO
+sh 01_script_fastqc.sh Panc_8Gy1_SO1
+sh 01_script_fastqc.sh Panc_8Gy1_SO3
